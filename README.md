@@ -1,4 +1,4 @@
-#### AI-voice-assistant
+### AI-voice-assistant
 This project is a voice assistant built using the BlenderBot model for conversation generation and the Whisper model for speech detection. The user interacts with the assistant through a Gradio interface for audio input.
 ### Prerequisites
 ```bash
