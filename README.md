@@ -6,7 +6,7 @@ This project is a voice assistant built using the BlenderBot model for conversat
 ```
 ### Clone the repository
 ```bash
-git clone https://github.com/Rhode01/fi.git AI-Voice-assistant
+git clone https://github.com/Rhode01/AI-Voice-assistant.git 
 cd AI-Voice-assistant
 ```
 ### Creating Virtual Env
