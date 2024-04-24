@@ -4,7 +4,7 @@ The project is built using Whisper model for speech detection using its using bl
 for audio input im using gradio interface
 ### Prerequisites
 ```bash
-    Python version 3.10 and above
+    Python version 3.8 and above
 ```
 ### Clone the repository
 ```bash
