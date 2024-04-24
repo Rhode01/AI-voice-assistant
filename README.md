@@ -1,7 +1,6 @@
 #### AI-voice-assistant
 
-### How to start the project
-
+#### How to start the project
 
 ```bash
 
